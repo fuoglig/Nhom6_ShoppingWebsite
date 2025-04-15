@@ -78,30 +78,30 @@ Giao diện của dự án được lấy cảm hứng từ các trang thương 
 
 ## Cấu Trúc Thư Mục
 
-shopping-website/
-├── index.html
-├── dangnhap.html
-├── product-detail.html
-├── main.js
-├── assets/
-│   ├── css/
-│   │   ├── base.css
-│   │   ├── grid.css
-│   │   ├── main.css
-│   │   └── responsive.css
-│   ├── fonts/
-│   │   ├── fontawesome-free-6.7.2-web/
-│   │   └── GoogleFonts-Roboto/
-│   ├── img/
-│   │   ├── qr-img.png
-│   │   ├── appstore-img.png
-│   │   ├── googleplay-img.png
-│   │   ├── no-cart.png
-│   │   └── ...
-│   └── favicon_io/
-│       ├── favicon-32x32.png
-│       └── ...
-└── README.md
+- shopping-website/
+  - index.html
+  - dangnhap.html
+  - product-detail.html
+  - main.js
+  - assets/
+    - css/
+      - base.css
+      - grid.css
+      - main.css
+      - responsive.css
+    - fonts/
+      - fontawesome-free-6.7.2-web/
+      - GoogleFonts-Roboto/
+    - img/
+      - qr-img.png
+      - appstore-img.png
+      - googleplay-img.png
+      - no-cart.png
+      - ...
+    - favicon_io/
+      - favicon-32x32.png
+      - ...
+  - README.md
 
 ---
 
